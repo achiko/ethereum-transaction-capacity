@@ -1,0 +1,16 @@
+{
+  "name": "ethereum-transaction-capacity",
+  "version": "1.0.0",
+  "description": "Ethereum Transaction Per Seccond calculator",
+  "main": "calculate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ethereum",
+    "Blockchain",
+    "Transactions"
+  ],
+  "author": "Archil Phanchulidze",
+  "license": "ISC"
+}
